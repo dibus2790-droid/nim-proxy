@@ -35,8 +35,9 @@ const MODEL_MAPPING = {
   'gpt-4o': 'deepseek-ai/deepseek-v3.1',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
-  'gemini-pro': 'moonshotai/kimi-k2.5'
-  'mistralai/mistral-large-4-1t-a52b'
+  'gemini-pro': 'moonshotai/kimi-k2.5',
+  'mistral-large': 'mistralai/mistral-large-4-1t-a52b',
+  'llama-405': 'meta/llama-3.1-405b-instruct'.
   
 };
 
