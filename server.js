@@ -37,7 +37,8 @@ const MODEL_MAPPING = {
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'moonshotai/kimi-k2.5',
   'mistral-large': 'mistralai/mistral-large-4-1t-a52b',
-  'llama-405': 'meta/llama-3.1-405b-instruct'.
+  'llama-405': 'meta/llama-3.1-405b-instruct',
+  'dolphin-24': 'cognitivecomputations/dolphin-mistral-24b-venice-edition'
   
 };
 
